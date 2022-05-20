@@ -1,4 +1,4 @@
-# Awesome Data Science with Python
+# Awesome Data Science and Statistics with Python
 
 > A curated list of awesome resources for practicing data science using Python, including not only libraries, but also links to tutorials, code snippets, blog posts and talks.  
 #### Core
@@ -113,8 +113,12 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 ##### Comparing Two Populations
 [torch-two-sample](https://github.com/josipd/torch-two-sample) - Friedman-Rafsky Test: Compare two population based on a multivariate generalization of the Runstest. [Explanation](https://www.real-statistics.com/multivariate-statistics/multivariate-normal-distribution/friedman-rafsky-test/), [Application](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5014134/)  
 
+##### Setting Up Factorial Experiments
+[Factorial Design](https://opentext.wsu.edu/carriecuttler/chapter/9-1-setting-up-a-factorial-experiment/) - Modeling factor or feature interaction effects using a factorial design table
+[Yates Algorithm](https://www.itl.nist.gov/div898/handbook/eda/section3/eda35i.htm) - Estimate Factor Effects in a 2-Level Factorial Design
+
 ##### Interim Analyses / Sequential Analysis / Stopping
-[Squential Analysis](https://en.wikipedia.org/wiki/Sequential_analysis) - Wikipedia.  
+[Sequential Analysis](https://en.wikipedia.org/wiki/Sequential_analysis) - Wikipedia.  
 [Treatment Effects Monitoring](https://online.stat.psu.edu/stat509/node/75/) - Design and Analysis of Clinical Trials PennState.  
 [sequential](https://cran.r-project.org/web/packages/Sequential/Sequential.pdf) - Exact Sequential Analysis for Poisson and Binomial Data (R package).  
 [confseq](https://github.com/gostevehoward/confseq) - Uniform boundaries, confidence sequences, and always-valid p-values.  
@@ -662,7 +666,7 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 [dendextend](https://github.com/talgalili/dendextend) - Comparing dendrograms (R package).  
 [DeepDPM](https://github.com/BGU-CS-VIL/DeepDPM) - Deep Clustering With An Unknown Number of Clusters.  
 
-##### Clustering Evalutation
+##### Clustering Evaluation
 [Wagner, Wagner - Comparing Clusterings - An Overview](https://publikationen.bibliothek.kit.edu/1000011477/812079)
 * [Adjusted Rand Index](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.adjusted_rand_score.html)
 * [Normalized Mutual Information](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.normalized_mutual_info_score.html)
@@ -1070,7 +1074,7 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 #### Lectures
 [NYU Deep Learning SP21](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) - Youtube Playlist.   
 
-#### Things I google a lot
+#### Misc
 [Color codes](https://github.com/d3/d3-3.x-api-reference/blob/master/Ordinal-Scales.md#categorical-colors)  
 [Frequency codes for time series](https://pandas.pydata.org/pandas-docs/stable/timeseries.html#offset-aliases)  
 [Date parsing codes](https://docs.python.org/3/library/datetime.html#strftime-and-strptime-behavior)  
@@ -1078,6 +1082,9 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 
 ## Contributing  
 Do you know a package that should be on this list? Did you spot a package that is no longer maintained and should be removed from this list? Then feel free to read the [contribution guidelines](CONTRIBUTING.md) and submit your pull request or create a new issue.  
+
+## Credits
+Thanks to [Florian Rohrer](https://github.com/r0f1). 
 
 ## License
 
