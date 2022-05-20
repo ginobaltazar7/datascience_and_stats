@@ -115,7 +115,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 
 ##### Process Improvement / Factorial Experiments
 [Factorial Design](https://opentext.wsu.edu/carriecuttler/chapter/9-1-setting-up-a-factorial-experiment/) - Modeling factor or feature interaction effects using a factorial design table   
-[Process Improvement](https://www.itl.nist.gov/div898/handbook/pri/pri.htm) Basic concepts, terminology, goals and procedures underlying the proper statistical design of experiments   
+[Process Improvement](https://www.itl.nist.gov/div898/handbook/pri/pri.htm) Basic concepts, terminology, underlying the proper statistical design of experiments   
 [Yates Algorithm](https://www.itl.nist.gov/div898/handbook/eda/section3/eda35i.htm) - Estimate Factor Effects in a 2-Level Factorial Design
 
 ##### Interim Analyses / Sequential Analysis / Stopping
