@@ -113,9 +113,9 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 ##### Comparing Two Populations
 [torch-two-sample](https://github.com/josipd/torch-two-sample) - Friedman-Rafsky Test: Compare two population based on a multivariate generalization of the Runstest. [Explanation](https://www.real-statistics.com/multivariate-statistics/multivariate-normal-distribution/friedman-rafsky-test/), [Application](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5014134/)  
 
-##### Setting Up Factorial Experiments
+##### Process Improvement / Factorial Experiments
 [Factorial Design](https://opentext.wsu.edu/carriecuttler/chapter/9-1-setting-up-a-factorial-experiment/) - Modeling factor or feature interaction effects using a factorial design table
-
+[Process Improvement](https://www.itl.nist.gov/div898/handbook/pri/pri.htm) Basic concepts, terminology, goals and procedures underlying the proper statistical design of experiments
 [Yates Algorithm](https://www.itl.nist.gov/div898/handbook/eda/section3/eda35i.htm) - Estimate Factor Effects in a 2-Level Factorial Design
 
 ##### Interim Analyses / Sequential Analysis / Stopping
