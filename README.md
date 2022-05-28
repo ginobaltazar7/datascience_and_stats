@@ -583,6 +583,7 @@ Cell Segmentation - [Talk](https://www.youtube.com/watch?v=dVFZpodqJiI), Blog Po
 ##### Transformers
 [SegFormer](https://github.com/NVlabs/SegFormer) - Simple and Efficient Design for Semantic Segmentation with Transformers.  
 [esvit](https://github.com/microsoft/esvit) - Efficient self-supervised Vision Transformers.  
+[Meta's Xformers](https://github.com/facebookresearch/xformers) - by [abstracting GPU kernels](https://devblog.pytorchlightning.ai/part-i-simplifying-transformer-research-with-xformers-lightning-a715737b8ad4), [read Google's paper](https://arxiv.org/pdf/2009.06732.pdf), [and this intro](https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04).  
 
 ##### Graph-Based Neural Networks
 [How to do Deep Learning on Graphs with Graph Convolutional Networks](https://towardsdatascience.com/how-to-do-deep-learning-on-graphs-with-graph-convolutional-networks-7d2250723780)  
