@@ -819,6 +819,21 @@ Distances for comparing histograms and detecting outliers - [Talk](https://www.y
 [EconML](https://github.com/microsoft/EconML) - Heterogeneous Treatment Effects Estimation by Microsoft.  
 [causality](https://github.com/akelleh/causality) - Causal analysis using observational datasets.  
 
+##### Neuroscience
+[Nengo](https://github.com/nengo/nengo) - Library for creating and simulating large-scale brain models.
+[Nitime](https://github.com/nipy/nitime) - Timeseries analysis for neuroscience data.
+[Nilearn](https://github.com/nilearn/nilearn) - Module for performing statistical learning/machine learning on NeuroImaging data.
+[DIPY](https://github.com/nipy/dipy) - Toolbox for analysis of MR diffusion imaging.
+[MNE-Python](https://github.com/mne-tools/mne-python) - Community-driven software for processing time-resolved neural signals including electroencephalography (EEG) and magnetoencephalography (MEG).
+[NiBabel](https://github.com/nipy/nibabel) - Provides read and write access to some common medical and neuroimaging file formats.
+[PsychoPy](https://github.com/psychopy/psychopy) - Package for running psychology and neuroscience experiments. It allows for creating psychology stimuli in Python.
+[NuPic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.
+[Brian2](https://github.com/brian-team/brian2) - Free, open source simulator for spiking neural networks.
+[expyriment](https://github.com/expyriment/expyriment) - Platform-independent lightweight Python library for designing and conducting timing-critical behavioural and neuroimaging experiments.
+[BindsNET](https://github.com/Hananel-Hazan/bindsnet) - Package for simulating spiking neural networks for reinforcement & machine learning.
+[SpikeInterface](https://github.com/SpikeInterface/spikeinterface) - Framework designed to unify spike-sorting technologies
+[More here>>](https://github.com/analyticalmonk/awesome-neuroscience) 
+
 ##### Papers
 [Bours - Confounding](https://edisciplinas.usp.br/pluginfile.php/5625667/mod_resource/content/3/Nontechnicalexplanation-counterfactualdefinition-confounding.pdf)  
 [Bours - Effect Modification and Interaction](https://www.sciencedirect.com/science/article/pii/S0895435621000330)  
