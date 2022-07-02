@@ -832,7 +832,7 @@ Distances for comparing histograms and detecting outliers - [Talk](https://www.y
 [expyriment](https://github.com/expyriment/expyriment) - Platform-independent lightweight Python library for designing and conducting timing-critical behavioural and neuroimaging experiments.  
 [BindsNET](https://github.com/Hananel-Hazan/bindsnet) - Package for simulating spiking neural networks for reinforcement & machine learning.  
 [SpikeInterface](https://github.com/SpikeInterface/spikeinterface) - Framework designed to unify spike-sorting technologies.  
-[More here>>](https://github.com/analyticalmonk/awesome-neuroscience)  
+[More here>>](https://github.com/analyticalmonk/awesome-neuroscience)  - Credit to Akash Tandon
 
 ##### Papers
 [Bours - Confounding](https://edisciplinas.usp.br/pluginfile.php/5625667/mod_resource/content/3/Nontechnicalexplanation-counterfactualdefinition-confounding.pdf)  
